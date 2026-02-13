@@ -1,6 +1,6 @@
 # SpamSMS-Detection
 
-This project is an implementation of a machine learning model to classify SMS messages as spam or legitimate (ham). It uses techniques like TF-IDF for feature extraction and classifiers such as Naive Bayes, Logistic Regression, and Support Vector Machine (SVM) for the classification task. A Streamlit app is provided for real-time SMS spam classification.
+This project is an implementation of a machine learning model to classify SMS messages as spam or legitimate (ham). It uses techniques like TF-IDF for feature extraction and classifiers such as Naive Bayes, Logistic Regression, and Support Vector Machine (SVM) for the classification task.
 
 ### Running The model in terminal
 
