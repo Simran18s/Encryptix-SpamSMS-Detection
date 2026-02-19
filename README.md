@@ -27,5 +27,5 @@ The following Python libraries are required:
 
 install the required libraries using:
 ```bash
-pip install pandas numpy scikit-learn streamlit
+pip install pandas numpy scikit-learn streamlit python
 
